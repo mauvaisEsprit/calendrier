@@ -1,0 +1,13 @@
+.day {
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+}
+
+.current {
+    background-color: lightgreen;
+}
+
+.today {
+    background-color: lightblue;
+}
